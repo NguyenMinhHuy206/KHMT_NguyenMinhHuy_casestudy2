@@ -1,0 +1,5 @@
+api/node_modules/
+api/.env
+TaskManager/.dart_tool/
+TaskManager/build/
+.idea/
